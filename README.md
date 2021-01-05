@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![HitCount](http://hits.dwyl.com/kingjakeu/{project}.svg)](http://hits.dwyl.com/kingjakeu/{project})
 
-[![Jake's stats](https://github-readme-stats.vercel.app/api?username=kingjakeu&include_all_commits=true&theme=dracula)
+[![Jake's stats]](https://github-readme-stats.vercel.app/api?username=kingjakeu&include_all_commits=true&theme=dracula)
