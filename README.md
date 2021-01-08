@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![HitCount](http://hits.dwyl.com/kingjakeu/{project}.svg)](http://hits.dwyl.com/kingjakeu/{project})
+[![HitCount](http://hits.dwyl.com/kingjakeu/kingjakeu.svg)](http://hits.dwyl.com/kingjakeu/kingjakeu)
 
 ![Jake's stats](https://github-readme-stats.vercel.app/api?username=kingjakeu&include_all_commits=true&theme=dracula)
